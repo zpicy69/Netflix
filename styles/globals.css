@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+/*
+pluh
+*/
+
 body{
   @apply bg-zinc-900 h-full overflow-x-hidden;
 }
